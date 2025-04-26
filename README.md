@@ -1,8 +1,8 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
+NAME : SHAIK HAZEEDMASTHAN
 
-REG NO: 212224040194
+REG NO: 212224040304
 
 **AIM :**
 
@@ -36,8 +36,6 @@ Step 7 : stop.
 
 
 **Program :**
-
-```
 #include "stdio.h" 
 #include "conio.h" 
 #include "math.h" 
@@ -111,12 +109,12 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
   return 0;
  
 }
-```
 
 
 **Output :**
+![436544710-7511bec1-d012-48cd-a77f-1554e609dd51](https://github.com/user-attachments/assets/fe3a6c43-f516-43f7-85c8-c4fee78ac309)
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+
 
 
 **Result :**
